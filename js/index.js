@@ -55,7 +55,7 @@ $cursor.style.setProperty('--x', mouseMoves[count].x)
 $cursor.style.setProperty('--y', mouseMoves[count].y)
 count++;
 record (count);    
-}, 1000);
+}, 500);
 } else {
 mouseMoves = [];
 }
