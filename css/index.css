@@ -10,5 +10,5 @@
 	top: calc(var(--y) * 1px);
 	left: calc(var(--x) * 1px);
 
-	/* transition: all 10ms; */
+	transition: all 10ms; 
 }
